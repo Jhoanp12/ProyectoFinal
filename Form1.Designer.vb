@@ -195,6 +195,7 @@ Partial Class Form1
         Me.Controls.Add(Me.lblLogin)
         Me.Controls.Add(Me.lblWelcome)
         Me.Controls.Add(Me.imgUe)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.MaximizeBox = False
         Me.MinimizeBox = False

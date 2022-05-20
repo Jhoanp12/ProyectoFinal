@@ -121,7 +121,19 @@
   <data name="ue" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\..\..\..\OneDrive\Escritorio\ue.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="view_search_find_9565" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\..\..\OneDrive\Escritorio\Visual\img\view_search_find_9565.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1458264592_laptop_computer_pc_device_notebook_netbook_internet_icon-icons.com_55334" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\..\..\OneDrive\Escritorio\Visual\img\1458264592_laptop_computer_pc_device_notebook_netbook_internet_icon-icons.com_55334.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="new_add_user_16734" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\..\..\OneDrive\Escritorio\Visual\img\new_add_user_16734.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="ue1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\..\..\..\OneDrive\Escritorio\ue.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="search_find_user_16727" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\..\..\..\OneDrive\Escritorio\Visual\img\search_find_user_16727.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
